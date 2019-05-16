@@ -25,6 +25,7 @@ public class HashMapJserseyMaven {
 		Customer cust2 = new Customer("Brendan", "Cappa");
 		Customer cust3 = new Customer("Marty", "Cooraclare");
 		Customer cust4 = new Customer("Derick", "Kilkee");
+		Customer cust5 = new Customer("Josie", "Cavann");
 		
 		customerList.add(cust1);
 		customerList.add(cust2);
